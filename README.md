@@ -1,10 +1,9 @@
 # ANN_MODEL
 
-Revisiting and Revising the core NLP concept through Project.
+Revisiting core concepts in NLP and deep learning.
 
-# First Algorithm is Creating an ANN Model of a data set of Customer
+Built a customer churn prediction model, utilizing one-hot encoding, label encoding, standard scaling, and implementing forward/backward propagation with TensorFlow/Keras.
 
-Just prediction through OneHotLabelEncoder, TensorFlow, StandardScaler Algo.
 
 # Output
 
